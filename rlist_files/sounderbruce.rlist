@@ -89,10 +89,11 @@ OK DowLoop Lib FedCou
 OK DowLoop MemMus MicMan
 
 OR BlueLn HatGovCen CleAve
-OR GreLn PSUSou Gat99thAve
+OR GreLn PSUSou ClaTownCen
 OR OraLn UniStaGliSt Park
 OR RedLn BeaTraCen PorIntAir
 OR YelLn PSUSouCol ExpoCen
+OR WesExpSer BeaTraCen Wil
 OR ALp 9thLov_N 9thLov_S
 OR BLp +DIV_Lov_S +SKIP_CenLib
 OR BLp GraHol +SKIP_11thMar
